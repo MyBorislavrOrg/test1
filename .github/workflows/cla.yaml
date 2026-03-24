@@ -31,4 +31,4 @@ jobs:
           branch: 'main'
           allowlist: web-flow,bot*
           remote-repository-name: cla-storage
-          # remote-organization-name: ${{ github.repository_owner }}
+          remote-organization-name: ${{ github.repository_owner }}
