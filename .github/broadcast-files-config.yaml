@@ -1,6 +1,6 @@
 common_files:
   bot_branch_name: broadcast-files
   patterns_to_include: >
-    .github/is-it-fork.yaml
+    .github/workflows/is-it-fork.yaml
   destination: .github/workflows
   commit_message: 'chore: update of common files'
